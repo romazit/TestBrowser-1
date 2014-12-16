@@ -1,1 +1,1 @@
-cvs -d :pserver:roman@bambi:2401/rmRepository co TestBrowser/stk.txt
+rem cvs -d :pserver:roman@bambi:2401/rmRepository co TestBrowser/stk.txt

@@ -66,7 +66,7 @@ isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|Divident%/year|
 0|GPS|13943|The Gap Inc.|41.31|1|0|
 0|GS|663137|Goldman Sachs Group, Inc.|0|0|0|
 0|GST|704594|Gastar Exploration Limited (USA)|0|0|0|
-1|GTAT|12509028|GT Advanced Technologies Inc|0|0|0|
+0|GTAT|12509028|GT Advanced Technologies Inc|0|0|0|
 0|GTE|717007|Gran Tierra Energy Inc.|0|0|0|
 0|HANS|658642|Hansen Natural Corporation|0|0|0|
 0|HBI|709312|Hanesbrands Inc.|0|0|0|
