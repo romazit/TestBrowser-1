@@ -1,0 +1,896 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Dow Jones, Nasdaq, S&P 500, stock market data - CNNMoney.com</title>
+<META Name = "Description" CONTENT = "Complete financial market coverage with breaking news, analysis, stock quotes, before & after hours market data, research and earnings">
+<META Name = "keywords" CONTENT = "business news,financial news,stocks,stock quotes,stock portfolio,investing,company news,international business,world business,economy,bonds,adrs,before hours,after hours,earnings,investor research,ipo,commodities,currencies,nyse,nasdaq,amex">
+<META http-equiv="refresh" content="300">
+<meta HTTP-EQUIV="Pragma" CONTENT="no-cache">
+	<script src="http://i.cdn.turner.com/money/.element/ssi/javascript/1.0/bc_page.js"></script>
+	<script src="http://i.cdn.turner.com/money/.element/ssi/javascript/1.0/bc_urls.js"></script>
+	<script type="text/javascript">
+document.adoffset = 0;
+
+</script>
+<script type="text/javascript">
+var alreadySwappedDETargetImage = false; var cnnDEadDEonCookie = false;
+
+function getDEAdHeadCookie( imageRef ) {
+	if (typeof(WM_readCookie) != "undefined") {
+		cnnDEadDEonCookie = WM_readCookie( 'adDEon' );
+	}
+	var newSrc = "http://gdyn.cnn.com/1.1/1.gif?" + new Date().getTime();
+	if ( !alreadySwappedDETargetImage && !cnnDEadDEonCookie) {
+		imageRef.src = newSrc;
+		alreadySwappedDETargetImage = true;
+	}
+}
+</script>
+<script type="text/javascript" src="http://i.cdn.turner.com/money/fn_adspaces/cnn_adspaces.js"></script>
+
+
+	<script language="JavaScript1.1" src="http://i.cdn.turner.com/money/.element/ssi/javascript/1.0/main.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="http://i.cdn.turner.com/money/.element/ssi/css/1.0/main.css" type="text/css">
+	<link rel="stylesheet" href="http://i.cdn.turner.com/money/.element/ssi/css/2.0/cnnmoney.old.css" type="text/css">
+	<link rel="stylesheet" href="http://i.cdn.turner.com/money/.element/ssi/css/1.1/data_design.css" type="text/css">
+	<style type="text/css">
+		/**************************** NA-ing ************************************/
+		.whiteblob {font:bold 12px Arial;padding-top:0px;padding-left:50px;padding-right:50px;position:relative;z-index:500;top:94px;left:180px !important;left:160px;
+		height:18px;text-align:center;background-color:#FFF;color:#000; display:none;}
+		.mkHeader {font:bold 18px Arial;}
+		.mkHeader a {color:#000;}
+		.mkHeader a:hover {text-decoration:none;}
+
+	</style>
+
+</head>
+<body onLoad="cnnHandleCSIs();">
+<!--include virtual="/fn_adspaces/markets_and_stocks/interstitial.1x1.ad" -->
+<script>
+var R = new String(document.referrer);
+var serveAd=1;
+if(R.length > 0)
+{
+	if (R.indexOf("yahoo.com") >= 0 || R=="http://www.cnn.com/" || R.match("http://www.cnn.com/index.html"))
+		serveAd=0;
+}
+if(serveAd)
+{
+// ADSPACE: markets_and_stocks/interstitial.1x1
+	if (document.domain.match('turner.com')){
+		interstitialCSS(289154);
+		cnnad_startInterstitial(289154,"http://ads.turner.com/html.ng/site=cnn_money&cnn_money_position=1x1_interstitial&cnn_money_rollup=markets_and_stocks&params.styles=fs_interstitial");
+	}
+	else{
+		interstitialCSS(289154);
+		cnnad_startInterstitial(289154,"http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=1x1_interstitial&cnn_money_rollup=markets_and_stocks&params.styles=fs_interstitial");
+	}
+}
+</script>
+<div id="datapageWide">
+<table border="0" cellspacing="0" cellpadding="0" id="adBannerTable">
+<tr><td><!-- ADSPACE: markets_and_stocks/market_data/homepage/top.728x90 --><div id="ad-661491" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+cnnad_createAd("661491","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=728x90_top&cnn_money_rollup=markets_and_stocks&cnn_money_section=market_data&cnn_money_subsection=homepage&params.styles=fs","90","728");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></td></tr>
+</table>
+<script language="JavaScript" src="http://i.cdn.turner.com/money/.element/ssi/javascript/1.2/cnnhat_section.js"></script>
+<script language="JavaScript" src="http://i.cdn.turner.com/money/.element/ssi/javascript/1.0/search_form.js" type="text/javascript"></script>
+<div id="cnnMoneyBanner">
+	<div class="cnnMoneyBannerLft"><a href="/"><img src="http://i2.cdn.turner.com/money/.element/img/2.0/logos/CNNMoney_LOGO2.0.gif" alt="CNNMoney.com" width="289" height="50" border="0"></a></div>
+
+<div class="cnnMoneyBannerRgt">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
+	<div id="mrktSearchbox">
+		<form name="quoteForm" action="http://cgi.money.cnn.com/servlets/quote_redirect" method="post">
+
+			<div id="myContainer" style="margin-top:24px;"></div>
+			<input type="text" name="query" id="symb" value="Symbol" size="11" maxlength="50" class="moneySearchTxtField" onfocus="if (this.value == 'Symbol') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Symbol';}" />
+			<input type="image" name="quoteSearch" value="Get Quote" id="searchButton" SRC="http://i2.cdn.turner.com/money/.element/img/2.0/buttons/button_get_quote.gif" onmouseover="this.src='http://i2.cdn.turner.com/money/.element/img/2.0/buttons/button_get_quote_blue.gif'" onmouseout="this.src='http://i2.cdn.turner.com/money/.element/img/2.0/buttons/button_get_quote.gif'" ALT="Submit button"/>
+		</form>
+
+	</div>
+</td>
+<td valign="top">
+	<div id="moneySearchbox">
+		<form method="get" onsubmit="resultsPage();" name="searchForm" id="cnnMoneyWebSearch">
+			<input type="hidden" name="magazine" value="web" />
+
+			<input type="hidden" name="source" value="money" />
+			<input type="hidden" name="query" value="" />
+			<input type="hidden" name="invocationType" value="search%2Ftop" />
+
+			<input type="text" name="QueryText" value="Keyword" size="26" maxlength="50" class="moneySearchTxtField" onfocus="if (this.value == 'Keyword') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Keyword';}" />
+			<input type="image" name="search" value="Search" id="searchButton" SRC="http://i2.cdn.turner.com/money/.element/img/2.0/buttons/button_search.gif" onmouseover="this.src='http://i2.cdn.turner.com/money/.element/img/2.0/buttons/button_search_blue.gif'" onmouseout="this.src='http://i2.cdn.turner.com/money/.element/img/2.0/buttons/button_search.gif'" ALT="Submit button"/>
+		</form>
+	</div>
+</td>
+<td>	<div class="cnnMoneyServices">
+		<ul>
+			<script language="JavaScript">chooseMag();</script>
+		</ul>
+
+	</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div id="moneyMarketsNav">
+<div id="mainNavMenu">
+	<ul id="navTable">
+		<li><a href="/" class="navLink" id="navLinkHome">Home</a></li>
+		<li onMouseover="dropdownmenu(this, event, 'navmenu1')"><a href="/news/" class="navLink" id="navLinkBusinessNews">Business News</a></li>
+
+		<li onMouseover="dropdownmenu(this, event, 'navmenu2')"><a href="/data/markets/" class="navLink" id="navLinkMarkets">Markets</a></li>
+		<li onMouseover="dropdownmenu(this, event, 'navmenu3')"><a href="/pf/" class="navLink" id="navLinkPF">Personal Finance</a></li>
+		<li onMouseover="dropdownmenu(this, event, 'navmenu4')"><a href="/retirement/" class="navLink" id="navLinkRetirement">Retirement</a></li>
+		<li onMouseover="dropdownmenu(this, event, 'navmenu5')"><a href="/technology/" class="navLink" id="navLinkTech">Technology</a></li>
+		<li><a href="/lifestyle/" class="navLink" id="navLinkLuxury">Luxury</a></li>
+		<li onMouseover="dropdownmenu(this, event, 'navmenu6')"><a href="/smallbusiness/" class="navLink" id="navLinkSmbusiness">Small Business</a></li>
+
+		<li><a href="/magazines/fortune/" class="navLink" id="navLinkFortune" onMouseover="dropdownmenu(this, event, 'navmenu8')">Fortune</a></li>
+	</ul>
+	<ul id="serviceTable">
+		<li><a href="/video/" class="navServiceLinks" id="navLinkVideo">Video</a></li>
+		<li onMouseover="dropdownmenu(this, event, 'navmenu9')"><a href="http://audience.cnn.com/services/money/portfolio/MSPortfolio" class="navServiceLinks" id="navLinkPortfolio">My Portfolio</a></li>
+		<li><a href="http://www.cnn.com" class="navServiceLinks" id="navLinkCNN">CNN.com</a></li>
+	</ul>
+
+</div>
+
+<span id="navmenu1" class="navlinkcss">
+<a href="/news/companies/index.html">Companies</a>
+<a href="/news/economy/index.html">Economy</a>
+<a href="/news/international/index.html">International</a>
+<a href="/news/corrections/index.html">Corrections</a>
+</span>
+<!-- MARKETS -->
+<span id="navmenu2" class="navlinkcss">
+<a href="/data/premarket/index.html">Pre-market Trading</a>
+<a href="/data/afterhours/index.html">After-hours Trading</a>
+
+<a href="/data/actives/index.html">Winners/Losers/Actives</a>
+<a href="/markets/bondcenter/index.html">Bonds</a>
+<a href="/data/currencies/index.html">Currencies</a>
+<a href="/data/commodities/index.html">Commodities</a>
+<a href="/data/world_markets/index.html">World Markets</a>
+</span>
+<!-- PERSONAL FINANCE -->
+<span id="navmenu3" class="navlinkcss">
+<a href="/magazines/moneymag/index.html">Money Magazine</a>
+<a href="/real_estate/index.html">Real Estate</a>
+
+<a href="/pf/taxes/index.html">Taxes</a>
+<a href="/news/specials/jobs/index.html">Jobs</a>
+<a href="/expert/index.html">Ask the Expert</a>
+<a href="/magazines/moneymag/money101/index.html">Money 101</a>
+<a href="/autos/index.html">Autos</a>
+<a href="/funds/index.html">Mutual Funds</a>
+<a href="/pf/saving/index.html">The Help Desk</a>
+<a href="/pf/loan_center/index.html">Loan Center</a>
+<a href="/magazines/moneymag/bplive/2009/index.html">Best Places to Live</a>
+
+</span>
+<!-- RETIREMENT -->
+<span id="navmenu4" class="navlinkcss">
+<a href="/pf/expert/index.html">Ask the Expert</a>
+<a href="/retirement/guide/index.html">Ultimate Guide to Retirement</a>
+<a href="/retirement/tools/">Retirement Calculators</a>
+<a href="/magazines/moneymag/bestfunds/2008/index.html">Best Funds</a>
+<a href="/magazines/moneymag/themole/index.html">Ask the Mole</a>
+<a href="/magazines/moneymag/bpretire/2008/index.html">Best Places to Retire</a>
+</span>
+<!-- TECHNOLOGY -->
+
+<span id="navmenu5" class="navlinkcss">
+<a href="http://brainstormtech.blogs.fortune.cnn.com/">Fortune Brainstorm Tech</a>
+<a href="http://brainstormtech.blogs.fortune.cnn.com/category/apple-2-0/">Apple 2.0 Blog</a>
+<a href="http://brainstormtech.blogs.fortune.cnn.com/category/big-tech/">Big Tech Blog</a>
+<a href="/data/sectors/techstocks/index.html">Sectors and Stocks</a>
+<a href="/video/series/techtalk/">Tech Talk</a>
+</span>
+<!-- SMALL BUSINESS -->
+<span id="navmenu6" class="navlinkcss">
+<a href="/magazines/fsb/bestplaces/">100 Best Places to Launch</a>
+<a href="/smallbusiness/resourceguide/index.html">Ultimate Resource Guide</a>
+
+<a href="/smallbusiness/makeover/index.html">Small Biz Makeovers</a>
+<a href="/magazines/fsb/fsb100/">FSB 100</a>
+<a href="/smallbusiness/getanswers/">Ask &amp; Answer</a>
+</span>
+<!-- LIFESTYLE -->
+<span id="navmenu7" class="navlinkcss">
+</span>
+<!-- FORTUNE -->
+<span id="navmenu8" class="navlinkcss">
+<a href="/magazines/fortune/fortune500/2009/index.html">Fortune 500</a>
+<a href="http://brainstormtech.blogs.fortune.cnn.com/">Brainstorm Tech</a>
+
+<a href="/magazines/fortune/investing/index.html">Investing</a>
+<a href="/magazines/fortune/management/index.html">Management</a>
+<a href="http://money.cnn.com/video/fortune/2009/07/08/f_cs_amgen_health_care_reform.fortune">C-Suite</a>
+
+<a href="/magazines/fortune/rankings/index.html">Rankings</a>
+</span>
+<!-- PORTFOLIO -->
+<span id="navmenu9" class="navlinkcss">
+<a href="http://audience.cnn.com/services/money/portfolio/MSPortfolio">Main</a>
+<a href="http://bcportfolio.money.cnn.com/custom/cnnmoney2/2/portfolio/addcreate.asp">Create Portfolio</a>
+<a href="http://bcportfolio.money.cnn.com/custom/cnnmoney2/2/portfolio/edit.asp">Edit Portfolio</a>
+
+<a href="http://bcalerts.money.cnn.com/custom/cnnmoney2/2/alerts/html-create.asp">Create Alerts</a>
+<a href="http://bcalerts.money.cnn.com/custom/cnnmoney2/2/alerts/html-summary.asp">Edit Alerts</a>
+</span>
+<!--Horizontal nav-->
+
+<script language="JavaScript">
+if ( location.pathname == '/markets/news/' ) {
+	document.write('<style>#subNavSectionFull{background:none;}</style>');
+}
+</script>
+<div id="subNavSectionFull"><table border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td><script language="JavaScript">
+if (( location.pathname == '/markets/news/' ) || ( location.pathname == '/markets/news/index.html' )) {
+	document.write('<span class="subNavLink">News</span>');
+	} else {
+	document.write('<a href="/markets/news/index.html" class="subNavLink">News</a>'); }
+</script></td>
+	<td><script language="JavaScript">
+if (( location.pathname == '/data/markets/' ) || ( location.pathname == '/data/markets/index.html' )) {
+	document.write('<span class="subNavLink">Data</span>');
+	} else {
+	document.write('<a href="/data/markets/index.html" class="subNavLink">Data</a>'); }
+</script></td>
+
+	<td><script language="JavaScript">
+if ( (location.pathname == '/data/premarket/index.html') || (location.pathname == '/data/premarket/') ) {
+	document.write('<span class="subNavLink">Pre-market</span>');
+	} else {
+	document.write('<a href="/data/premarket/index.html" class="subNavLink">Pre-market</a>'); }
+</script></td>
+	<td><script language="JavaScript">
+if (( location.pathname == '/data/afterhours/' ) || ( location.pathname == '/data/afterhours/index.html' )) {
+	document.write('<span class="subNavLink">After-hours</span>');
+	} else {
+	document.write('<a href="/data/afterhours/index.html" class="subNavLink">After-hours</a>'); }
+</script></td>
+	<td><script language="JavaScript">
+if (( location.pathname == '/data/us_markets/' ) || ( location.pathname == '/data/us_markets/index.html' )) {
+	document.write('<span class="subNavLink">US&nbsp;Markets</span>');
+	} else {
+	document.write('<a href="/data/us_markets/index.html" class="subNavLink">US&nbsp;Markets</a>'); }
+</script></td>
+	<td><script language="JavaScript">
+if (( location.pathname == '/data/hotstocks/' ) || ( location.pathname == '/data/hotstocks/index.html' )) {
+	document.write('<span class="subNavLink">Hot&nbsp;Stocks</span>');
+	} else {
+	document.write('<a href="/data/hotstocks/index.html" class="subNavLink">Hot&nbsp;Stocks</a>'); }
+</script></td>
+	<td><script language="JavaScript">
+if (( location.pathname == '/markets/bondcenter/' ) || ( location.pathname == '/markets/bondcenter/index.html' )) {
+	document.write('<span class="subNavLink">Bonds</span>');
+	} else {
+	document.write('<a href="/markets/bondcenter/index.html" class="subNavLink">Bonds</a>'); }
+</script></td>
+	<td><script language="JavaScript">
+if (( location.pathname == '/data/commodities/' ) || ( location.pathname == '/data/commodities/index.html' )) {
+	document.write('<span class="subNavLink">Commodities</span>');
+	} else {
+	document.write('<a href="/data/commodities/index.html" class="subNavLink">Commodities</a>'); }
+
+</script></td>
+	<td><script language="JavaScript">
+if (( location.pathname == '/data/world_markets/' ) || ( location.pathname == '/data/world_markets/index.html' ) || ( location.pathname == '/data/ftse100/' ) || ( location.pathname == '/data/dax100/' ) || ( location.pathname == '/data/cac40/' )) {
+	document.write('<span class="subNavLink">World&nbsp;Markets</span>');
+	} else {
+	document.write('<a href="/data/world_markets/index.html" class="subNavLink">World&nbsp;Markets</a>'); }
+</script></td>
+	<td><script language="JavaScript">
+if (( location.pathname == '/data/currencies/' ) || ( location.pathname == '/data/currencies/index.html' )) {
+	document.write('<span class="subNavLink">Currencies</span>');
+	} else {
+	document.write('<a href="/data/currencies/index.html" class="subNavLink">Currencies</a>'); }
+</script></td>
+</tr>
+</table></div></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="topAdCenter"><tr>
+<td><b>TRADING<br>CENTER</b></td>
+<td align="center"><!-- ADSPACE: markets-stocks/market_center/anchor4.150x50 --><div align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+cnnad_createAd("414465","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=150x50_spon4&cnn_money_rollup=markets_and_stocks&cnn_money_section=trading_center&params.styles=fs","50","150");
+if (cnnad_adIframes)
+{
+    cnnad_adIframes[cnnad_adIframes.length] = 414465;
+}
+
+
+
+
+
+</script></div></td>
+<td align="center"><!-- ADSPACE: markets-stocks/market_center/anchor1.150x50 --><div align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+cnnad_createAd("832468","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=150x50_spon1&cnn_money_rollup=markets_and_stocks&cnn_money_section=trading_center&params.styles=fs","50","150");
+if (cnnad_adIframes)
+{
+    cnnad_adIframes[cnnad_adIframes.length] = 832468;
+}
+
+
+
+
+
+</script></div></td>
+
+<td align="center"><!-- ADSPACE: markets-stocks/market_center/anchor2.150x50 --><div align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+cnnad_createAd("959252","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=150x50_spon2&cnn_money_rollup=markets_and_stocks&cnn_money_section=trading_center&params.styles=fs","50","150");
+if (cnnad_adIframes)
+{
+    cnnad_adIframes[cnnad_adIframes.length] = 959252;
+}
+
+
+
+
+
+</script></div></td>
+<td align="center"><!-- ADSPACE: markets-stocks/market_center/anchor3.150x50 --><div align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+cnnad_createAd("64912","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=150x50_spon3&cnn_money_rollup=markets_and_stocks&cnn_money_section=trading_center&params.styles=fs","50","150");
+if (cnnad_adIframes)
+{
+    cnnad_adIframes[cnnad_adIframes.length] = 64912;
+}
+
+
+
+
+
+</script></div></td>
+</tr></table>
+
+<table border="0" cellspacing="0" cellpadding="0" class="mainDatTbl">
+<tr valign="top">
+<td valign="top">
+	<div id="NavigationTabs">
+		<div id="Tab0">
+			<ul>
+				<li class="tabnum0"><b><a href="/data/us_markets/">US&nbsp;Markets</a></b></li>
+
+				<li class="tabnum1"><a href="/data/actives/">Actives</a></li>
+				<li class="tabnum2"><a href="/data/gainers/">Gainers</a></li>
+				<li class="tabnum3"><a href="/data/losers/">Losers</a></li>
+				<li class="tabnum4"><a href="/data/widelyheld/">Widely held</a></li>
+				<li class="tabnum5"><a href="/data/dow30/">Dow 30</a></li>
+			</ul>
+
+		</div>
+	</div>
+<table width="628" border="0" cellspacing="0" cellpadding="0" style="border: solid 1px #999;border-top:0px;">
+<tr valign="top"><td style="padding-bottom:15px;width:473px;">
+<div id="usmkTable">
+<!-- BC module start -->
+<!-- us mk big table -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bctable"><tr valign="middle" id="header"><th class="imgcell"></th><th class="textcell">Aug 11 7:56am &#8224;</th><th class="change">Change</th><th class="perchange">%Change</th><th class="level">Level</th></tr><tr class="dividerline"><td colspan="5"><img src="http://i.cdn.turner.com/money/.element/img/1.0/misc/1.gif" height="1" width="1" /></td></tr><tr id="tablerow" class="rowcolor1"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-premkt.gif" border="0"></td><td class="textcell"><a href="premarket">Dow</a></td><td class="change"><span class=textnegative>-11.00</span></td><td class="perchange"><span class=textnegative>-0.12%</span></td><td class="level">9,309.00</td></tr><tr id="tablerow" class="rowcolor2"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-premkt.gif" border="0"></td><td class="textcell"><a href="premarket">NASDAQ</a></td><td class="change"><span class=textnegative>-4.25</span></td><td class="perchange"><span class=textnegative>-0.26%</span></td><td class="level">1,608.25</td></tr><tr id="tablerow" class="rowcolor1"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-premkt.gif" border="0"></td><td class="textcell"><a href="premarket">S&P</a></td><td class="change"><span class=textnegative>-3.70</span></td><td class="perchange"><span class=textnegative>-0.37%</span></td><td class="level">1,003.80</td></tr><tr class="dividerline"><td colspan="5"><img src="http://i.cdn.turner.com/money/.element/img/1.0/misc/1.gif" height="1" width="1" /></td></tr><tr id="tablerow" class="rowcolor2"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell">DJ Totl Mkt</td><td class="change"><span class=textnegative>-37.63</span></td><td class="perchange"><span class=textnegative>-0.36%</span></td><td class="level">10,378.63</td></tr><tr id="tablerow" class="rowcolor1"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell"><a href="javascript:GoURL(russellURL,'');">Russell 2000</a></td><td class="change"><span class=textnegative>-0.53</span></td><td class="perchange"><span class=textnegative>-0.09%</span></td><td class="level">571.87</td></tr><tr id="tablerow" class="rowcolor2"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell"><a href="javascript:GoURL(phillysemiURL,'');">Philadelphia Semiconductor</a></td><td class="change"><span class=textnegative>-3.58</span></td><td class="perchange"><span class=textnegative>-1.20%</span></td><td class="level">294.95</td></tr><tr id="tablerow" class="rowcolor1"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell"><a href="javascript:GoURL(dowtransportsURL,'');">Dow Transports</a></td><td class="change"><span class=textnegative>-38.61</span></td><td class="perchange"><span class=textnegative>-1.03%</span></td><td class="level">3,710.97</td></tr><tr id="tablerow" class="rowcolor2"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell"><a href="javascript:GoURL(dowutilitiesURL,'');">Dow Utilities</a></td><td class="change"><span class=textpositive>+1.30</span></td><td class="perchange"><span class=textpositive>+0.35%</span></td><td class="level">372.52</td></tr><tr id="tablerow" class="rowcolor1"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell"><a href="javascript:GoURL(nysecompositeURL,'');">NYSE Composite</a></td><td class="change"><span class=textnegative>-36.66</span></td><td class="perchange"><span class=textnegative>-0.56%</span></td><td class="level">6,550.05</td></tr><tr id="tablerow" class="rowcolor2"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell"><a href="javascript:GoURL(amexcompositeURL,'');">AMEX Composite</a></td><td class="change"><span class=textnegative>-12.95</span></td><td class="perchange"><span class=textnegative>-0.76%</span></td><td class="level">1,685.51</td></tr><tr id="tablerow" class="rowcolor1"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell"><a href="javascript:GoURL(morningstarURL,'');">Morningstar Index</a></td><td class="change"><span class=textnegative>-8.38</span></td><td class="perchange"><span class=textnegative>-0.34%</span></td><td class="level">2,488.45</td></tr><tr class="dividerline"><td colspan="5"><img src="http://i.cdn.turner.com/money/.element/img/1.0/misc/1.gif" height="1" width="1" /></td></tr><tr id="tablerow" class="rowcolor2"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell">*<a href="javascript:GoURL(bondURL,'');">10yr Note</a></td><td class="change"><span class=textnegative>-0.8300</span></td><td class="perchange"><span class=textnegative>-0.215%</span></td><td class="level">3.771%</td></tr><tr id="tablerow" class="rowcolor1"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell">*<a href="javascript:GoURL(commURL,'');">NYMEX Crude Oil</a></td><td class="change"><span class=textnegative>-0.33</span></td><td class="perchange"><span class=textnegative>-0.47%</span></td><td class="level">70.60</td></tr><tr id="tablerow" class="rowcolor2"><td class="imgcell"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border="0"></td><td class="textcell"><a href="javascript:GoURL(commURL,'');">Gold</a></td><td class="change"><span class=textnegative>-12.60</span></td><td class="perchange"><span class=textnegative>-1.33%</span></td><td class="level">946.90</td></tr><tr class="dividerline"><td colspan="5"><img src="http://i.cdn.turner.com/money/.element/img/1.0/misc/1.gif" height="1" width="1" /></td></tr><tr valign="top"><td height="17" colspan="5" class="footnote"><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-openmkt.gif"> Open&nbsp;&nbsp;&nbsp;<img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif"> Market Closed&nbsp;&nbsp;&nbsp;<img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-premkt.gif"> Pre-Market&nbsp;&nbsp;&nbsp;*as of previous close</td></tr></table>
+
+<!-- BC module end -->
+</div>
+<span class="whiteblob">N/A</span>
+
+</td>
+<td width="150" style="padding-left:15px;padding-right:10px;padding-top:20px;" valign="top">
+<div style="padding-bottom:10px;"><a href="/data/markets/dow/"><img src="/.element/ssi/data/1.0/dow_graph.gif" alt="DOW" width="150" height="90" hspace="0" vspace="0" border="0"></a></div>
+<div style="padding-bottom:10px;"><a href="/data/markets/nasdaq/"><img src="/.element/ssi/data/1.0/nasdaq_graph.gif" alt="NASDAQ" width="150" height="90" hspace="0" vspace="0" border="0"></a></div>
+<div style="padding-bottom:10px;"><a href="/data/markets/sandp/"><img src="/.element/ssi/data/1.0/sandp_graph.gif" alt="S&amp;P" width="150" height="90" hspace="0" vspace="0" border="0"></a></div>
+<a href="/markets/bondcenter/"><img src="/.element/ssi/data/1.0/bonds/10year-yield.gif" alt="10yr Yield" width="150" height="90" hspace="0" vspace="0" border="0"></a>
+</td>
+</tr>
+</table>
+<!--// START: N/A MARKET DATA //-->
+<!--<div style=" font: bold 11px arial; text-align: center; background: #FFF; width: 215px; position: relative; left: 169px; top: 80px;"> N/A</div>-->
+<!--// END: N/A MARKET DATA //-->
+
+<table border="0" cellspacing="0" cellpadding="0" style="padding-top:15px;width:628px;">
+<tr><td valign="top">
+<div id="worldmkTable">
+<div id="NavigationTabs">
+	<div id="Tab0">
+		<ul>
+			<li class="tabnum0"><b><a href="/data/world_markets/">World Markets</a>&amp;<a href="/data/currencies/">Currencies</a></b></li>
+			<li class="tabnum1"><a href="/data/ftse100/">FTSE</a></li>
+			<li class="tabnum2"><a href="/data/dax100/">DAX</a></li>
+
+			<li class="tabnum3"><a href="/data/cac40/">CAC</a></li>
+			<li class="tabnum4"><a href="/news/international">World Biz Headlines</a></li>
+		</ul>
+	</div>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" width="628" style="border: solid 1px #999;border-top: 0px;">
+<tr valign="top"><td width="360">
+<!-- BC module start -->
+<!-- world markets small --><table width=100% border=0 cellspacing=0 cellpadding=0 class=bctable><!--FTSE - 8/11/2009 12:51:00 PM--><!--DAX - 8/11/2009 1:51:00 PM--><!--Nikkei - 8/11/2009 4:30:00 PM--><tr valign=middle id=header><th class=imgcell></th><th class=textcell>Aug 11 7:51am&#8224;</th><th class=change>Change</th><th class=perchange>%Change</th><th class=level>Level</th></tr><tr class=dividerline><td height=1 colspan=5><img src="http://i.cdn.turner.com/money/.element/img/1.0/misc/1.gif" height="1" width="1" /></td></tr><tr id="tablerow" class="rowcolor1"><td class=imgcell><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-openmkt.gif" border=0></td><td class=textcell nowrap><img align=absmiddle src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/flag-uk.gif" border=0><a href="javascript:GoURL(ftseURL,'');">FTSE</a></td><td class=change><span class=textnegative>-21.28</span></td><td class=perchange><span class=textnegative>-0.45%</span></td><td class=level>4,700.92</td></tr><tr id="tablerow" class="rowcolor2"><td class=imgcell><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-openmkt.gif" border=0></td><td class=textcell nowrap><img align=absmiddle src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/flag-germany.gif" border=0><a href="javascript:GoURL(daxURL,'');">DAX</a></td><td class=change><span class=textnegative>-19.76</span></td><td class=perchange><span class=textnegative>-0.36%</span></td><td class=level>5,398.36</td></tr><tr id="tablerow" class="rowcolor1"><td class=imgcell><img src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif" border=0></td><td class=textcell nowrap><img align=absmiddle src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/flag-japan.gif" border=0>Nikkei</td><td class=change><span class=textpositive>+61.20</span></td><td class=perchange><span class=textpositive>+0.58%</span></td><td class=level>10,585.46</td></tr>	<tr class=dividerline><td height=1 colspan=5><img src="http://i.cdn.turner.com/money/.element/img/1.0/misc/1.gif" height="1" width="1" /></td></tr><tr id="tablerow" class="rowcolor2"><td class=imgcell></td><td class=textcell nowrap><a href="JavaScript:GoURL(currURL,'')">U.S. Dollar vs Euro</a></td><td class=change><span class=textpositive>+0.0019</span></td><td class=perchange><span class=textpositive>+0.13%</span></td><td class=level>1.4165</td></tr><tr id="tablerow" class="rowcolor1"><td class=imgcell></td><td class=textcell nowrap><a href="JavaScript:GoURL(currURL,'')">U.S. Dollar vs Yen</a></td><td class=change><span class=textnegative>-0.5400</span></td><td class=perchange><span class=textnegative>-0.56%</span></td><td class=level>0.0104</td></tr></table>
+
+<!-- BC module end -->
+</div>
+</td><td width="220" style="padding-left: 15px;">
+<div id="currConverter">
+<!-- BC module start -->
+<script language="JavaScript">loadModule('/custom/cnnmoney2/2/markets/jsinc-currency-converter-sm.asp');</script>
+<!-- BC module end -->
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="footnote"><img align=absmiddle src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-openmkt.gif"> Open&nbsp;&nbsp;&nbsp;<img align=absmiddle src="http://custom.marketwatch.com/custom/cnnmoney-com/markets/images/clock-closemkt.gif"> Closed</div>
+
+	<!-- mk data page  world table end -->
+<a name="sectors"></a>
+<table border="0" cellspacing="0" cellpadding="0" style="padding-top:15px;width:628px;padding-bottom:15px;">
+<tr valign="top">
+	<td width="306"><div id="MKDbottomBox"><!--<div class="relatedbox">Stock Sectors</div>
+<div class="name" style="float: left;">
+<a href="/data/sectors/Aerospace/">Aerospace &amp; Defense</a><br>
+<a href="/data/sectors/Airlines/">Airlines</a><br>
+<a href="/data/sectors/Automotive/">Automotive</a><br>
+<a href="/data/sectors/Biotechnology/">Biotechnology</a><br>
+<a href="/data/sectors/Consumer_Products/">Consumer Products</a><br>
+<a href="/data/sectors/Food___Beverage/">Food &amp; Beverages</a><br>
+<a href="/data/sectors/Homebuilders/">Homebuilders</a><br>
+<a href="/data/sectors/Manufacturing/">Manufacturing</a><br>
+</div>
+<div class="name" style="float: right; padding-left:15px">
+<a href="/data/sectors/Energy/">Energy</a><br>
+<a href="/data/sectors/Financial/">Financial</a><br>
+<a href="/data/sectors/Metals/">Materials</a><br>
+<a href="/data/sectors/Media___Entertainment/">Media &amp; Entertainment</a><br>
+<a href="/data/sectors/Drugs/">Pharmaceuticals</a><br>
+<a href="/data/sectors/Retail/">Retail</a><br>
+<a href="/technology/techstocks/">Technology</a><br>
+</div>-->
+<table cellpadding="0" cellspacing="0" border="0">
+	<tr><td colspan="2" class="relatedbox">Stock Sectors</td></tr>
+	<tr>
+		<td class="name">
+<a href="/data/sectors/Aerospace/">Aerospace &amp; Defense</a><br>
+
+<a href="/data/sectors/Automotive/">Automotive</a><br>
+<a href="/data/sectors/Chemicals/">Chemicals</a><br>
+<a href="/data/sectors/Computer_Hardware/">Computer Hardware</a><br>
+<a href="/data/sectors/Computer_Software/">Computer Software</a><br>
+<a href="/data/sectors/Construction/">Construction</a><br>
+<a href="/data/sectors/Consumer_Products/">Consumer Products</a><br>
+<a href="/data/sectors/Energy/">Energy</a><br>
+<a href="/data/sectors/Financial/">Financial</a><br>
+<a href="/data/sectors/Food___Beverage/">Food &amp; Beverages</a><br>
+
+		</td>
+		<td class="name" style="padding-left:15px">
+<a href="/data/sectors/Health_Care/">Health Care</a><br>
+<a href="/data/sectors/Manufacturing/">Manufacturing</a><br>
+<a href="/data/sectors/Materials/">Materials</a><br>
+<a href="/data/sectors/Media___Entertainment/">Media &amp; Entertainment</a><br>
+<a href="/data/sectors/Metals/">Metals &amp; Mining</a><br>
+
+<a href="/data/sectors/Retail/">Retail</a><br>
+<a href="/data/sectors/Technology/">Technology</a><br>
+<a href="/data/sectors/Telecommunication/">Telecommunications</a><br>
+<a href="/data/sectors/Tobacco/">Tobacco</a><br>
+<a href="/data/sectors/Transportation/">Transportation</a><br>
+<a href="/data/sectors/Utilities/">Utilities</a><br>
+		</td>
+	</tr>
+</table>
+
+</div></td>
+	<td width="307" style="padding-left:15px;"><form action="http://money.cnn.com/quote/snapshot/snapshot.html" method="get">
+<div class="relatedbox" style="padding-top:10px;">Company Research</div>
+<div class="tease" style="padding-bottom:5px;">Enter a company name or symbol for earnings estimates, analyst ratings, insider trades and more.</div>
+<INPUT type="text" name="symb" align="top" size="20" maxlength="50" class="formInput"><br>
+<input type="button" name="Submit" value="Search" class="formButton" onClick="submit();">
+</form></td>
+</tr>
+</table>
+
+<div id="quigo628"><!-- ADSPACE: markets_and_stocks/quigo/channel/bot.628x215 --><div id="ad-869416" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+cnnad_createAd("869416","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=628x215_bot&cnn_money_rollup=markets_and_stocks&cnn_money_section=quigo&cnn_money_subsection=homepage&params.styles=fs","215","628");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div>
+<div id="RelatedStoriesArea">
+<!-- BEGIN top stories include --><div id="TopStoriesBox">
+
+<table border="0" cellspacing="0" cellpadding="0" class="topstoriesTable">
+<tr class="headerRow">
+<td class="headerCell"><a class="relatedbox" href="/markets">More Markets</a></td>
+</tr>
+<tr class="contentRow">
+<td style="padding-left:6px;">
+<div class="storyLink">
+<a href="/2009/08/11/markets/premarkets/index.htm">Stocks set for flat open</a>
+<br>
+</div>
+<div class="storyLink">
+<a href="/2009/08/11/markets/bondcenter/bonds/index.htm">Treasurys rise ahead of auction, Fed</a>
+<br>
+</div>
+
+<div class="storyLink">
+<a href="/2009/08/10/news/companies/ge_comes_clean.fortune/index.htm">General Electric comes clean</a>
+<br>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- END top stories include -->
+
+<div id="BottomBox"><!--<div id="TopStoriesBox"><table border="0" cellspacing="0" cellpadding="0" class="topstoriesTable"><tr class="headerRow"><td class="headerCell"><a class="relatedbox">The Hot List</a></td></tr><tr class="contentRow"><td style="padding-left:6px;"><div class="storyLink"><a href="/galleries/2008/fsb/0803/gallery.best_places_to_launch.fsb/index.html">100 best places to start a business</a></div><div class="storyLink"><a href="/2008/03/27/news/economy/diesel_impact/index.htm?postversion=2008040110">Diesel: The truck stops here </a></div><div class="storyLink"><a href="/2008/03/24/news/economy/camden_alabama/index.htm?postversion=2008032910">'You're working for gas now'</a></div></td></tr></table></div>--></div>
+</div>
+</td>
+<td class="adTD">
+	<div id="mkstories" style="padding-bottom:15px" class="tease">
+
+	<div class="mkHeader"><a href="/markets/news/index.html">Market News</a></div>
+	<!-- MARKETS lead --><div id="SummaryTout">
+<div class="t2headline">
+<a href="/2009/08/11/markets/premarkets/index.htm">Stocks set for flat open</a>
+<br>
+</div>
+<span class="timestamp">Aug 11: 7:04a</span>
+<br>
+<div class="summaryTease">Investors keeping an eye on Fed meeting and Treasury auction. 	(<a href="/2009/08/11/markets/premarkets/index.htm">more</a>)</div>
+
+</div>
+<!-- /MARKETS lead -->
+
+	</div>
+	<div id="adsquare"><!-- ADSPACE: markets-stocks/data/middle.336x280 --><div id="ad-438309" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+cnnad_createAd("438309","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=336x280_rgt&cnn_money_rollup=markets_and_stocks&cnn_money_section=market_data&cnn_money_subsection=homepage&params.styles=fs","280","336");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div>
+	<div id="quigo336"><!-- ADSPACE: markets_and_stocks/quigo/channel/rgt.336x280 --><div id="ad-54267" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+cnnad_createAd("54267","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=336x280_quigo&cnn_money_rollup=markets_and_stocks&cnn_money_section=quigo&cnn_money_subsection=homepage&params.styles=fs","280","336");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div>
+	<!-- BEGIN top stories include --><div id="TopStoriesBox"><table class="topstoriesTable" cellpadding="0" cellspacing="0" border="0"><tr class="headerRow"><td class="headerCell"><a href="/" class="relatedbox">Top Stories</a></td></tr><tr class="contentRow"><td style="padding-left:6px;"><div class="storyLink"><a href="/2009/08/11/news/economy/TARP_report/index.htm">Toxic assets still festering</a><br></div><div class="storyLink"><a href="/2009/08/11/markets/premarkets/index.htm">Stocks set for flat open</a><br></div><div class="storyLink"><a href="/2009/08/10/news/economy/fed_recovery/index.htm">Fed nervous about early recovery call</a><br></div><div class="storyLink"><a href="/2009/08/11/news/economy/dumb_reasons_no_mortgage_modification/index.htm">5 dumb reasons you can't fix your mortgage</a><br></div><div class="storyLink"><a href="/2009/08/10/news/companies/bank_overdraft_fees_Moebs/index.htm">Consumers: Broke. Banks: Gorge on overdraft</a><br></div></td></tr></table></div><!-- END top stories include -->
+
+	</td>
+</tr>
+</table>
+<div id="footerGroup">
+	<div id="mainCopyright">
+		&copy; 2009 Cable News Network. A Time Warner Company. All Rights Reserved.
+		<a rel="nofollow" href="/services/terms.html">Terms</a> under which this service is provided to you. <a rel="nofollow" href="/services/privacy/">Privacy Policy</a>
+	</div>
+
+	<div id="footerLinks">
+		<a href="/">Home</a>
+		<a rel="nofollow" href="http://audience.cnn.com/services/money/portfolio/MSPortfolio">Portfolio</a>
+		<a href="/tools/">Calculators</a>
+		<a rel="nofollow" href="/services/bridge/contact.us.html">Contact Us</a>
+		<a href="/services/newsletters/">Newsletters</a>
+		<a href="/services/podcasts/">Podcasts</a>
+		<a href="/services/rss/">RSS</a>
+		<a rel="nofollow" href="/services/mobile/">Mobile</a>
+		<a href="/services/widgets/">Widgets</a>
+
+		<a href="/services/sitemap/">Site Map</a>
+		<a rel="nofollow" href="http://audience.cnn.com/services/money/regwall/memberprofile.do">User Preferences</a>
+		<a rel="nofollow" href="http://www.timeinc.net/moneymktg/cnnmoney/index.html" target="new">Advertise with Us</a>
+		<br />
+		<a rel="nofollow" href="/services/bridge/contact.us.html">Magazine Customer Service</a>
+		<a rel="nofollow" href="http://www.fortunedatastore.com">Download Fortune Lists</a>
+		<a rel="nofollow" href="http://www.fortunereprints.com">Reprints</a>
+
+		<a rel="nofollow" href="http://www.fortunecareeropportunities.com">Career Opportunities</a>
+		<a rel="nofollow" href="http://www.timeinc.net/fortune/services/sections/fortune/sections.html">Special Sections</a>
+		<a rel="nofollow" href="http://www.timeinc.net/fortune/information/conferences/">Conferences</a>
+		<a rel="nofollow" id="lastLink" href="http://www.fortunecouncil.com">Business Leader Council</a>
+	</div>
+
+	<div id="marketCopyright">
+		<div class="copyrightlink">Live Quotes automatically refresh, but individual equities are delayed 15 minutes for Nasdaq, and 20 minutes for other exchanges. Market indexes are shown in real time, except for the DJIA, which is delayed by two minutes. All times are ET.<br>* : Time reflects local markets trading time. &#8224; - Intraday data delayed 15 minutes for Nasdaq, and 20 minutes for other exchanges. <a rel="nofollow" href="/services/disclaimer.html">Disclaimer</a></div>
+
+	<!--START DISCLAIMER--><table cellpadding="0" cellspacing="0" width="100%" border="0"><tr><td align="center" class="mwSmall">Copyright &#169; 2009 <A href=http://www.bigcharts.com target=mktw class=mwLink>BigCharts.com</a> Inc.  All rights reserved. Please see our <a class="mwLink" href="http://www.bigcharts.com/custom/docs/useragreement2.asp" target="mktw">Terms of Use</a>.<br/>MarketWatch, the MarketWatch logo, and BigCharts are registered trademarks of MarketWatch, Inc.<br/>Intraday data provided by <a href="http://www.interactivedata-rts.com" target="mktw" class="mwLink">Interactive Data Real-Time Services</a> and subject to the <A href="http://custom.marketwatch.com/custom/docs/comstock-terms.asp" target="mktw" class="mwLink">Terms of Use</a>.<br/>Intraday data is at least 20-minutes delayed. All times are ET.<br/>Historical, current end-of-day data, and splits data provided by <A href="http://www.interactivedata-prd.com" target="mktw" class="mwLink">Interactive Data Pricing and Reference Data</a>.<br/>Fundamental data provided by <a href=http://www.morningstar.com target=mktw class=mwlink>Morningstar, Inc.</a>.<br/>SEC Filings data provided by <a href="http://www.EDGAR-Online.com/marketwatch" target="mktw" class="mwlink">Edgar Online Inc.</a>.<br/>Earnings data provided by FactSet CallStreet, LLC.<br/></td></tr></table><!--END DISCLAIMER-->
+
+	</div>
+	<!-- end footer -->
+	<!-- SiteCatalyst code version: G.7.
+Copyright 1997-2004 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://i.cdn.turner.com/money/javascript/omniture/url_parser5.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+var s_pageName=document.title;
+var s_server="";
+var s_channel="";
+var s_pageType="";
+var s_prop1=parse_url(1);
+var s_prop2=parse_url(2);
+var s_prop3="";
+var s_prop4="";
+var s_prop5="";
+var s_prop6="";
+var s_prop7=document.domain;
+var s_prop8=document.URL;
+var s_prop9;
+if (typeof(cnnBrandingValue) != "undefined") {
+    s_prop9=special_package(cnnBrandingValue);
+} else {
+    s_prop9=special_package("");
+}
+if (typeof(cnnSource) != "undefined") {
+    s_prop10=subcategories(cnnSource);
+} else {
+    s_prop10=subcategories("");
+}
+var s_prop11="";
+var s_prop12="";
+var s_prop13;
+if (typeof(cnnAuthor) != "undefined") {
+    s_prop13=cnnAuthor;
+} else {
+    s_prop13="";
+}
+var s_prop14;
+if (typeof(cnnSource) != "undefined") {
+    s_prop14=cnnSource;
+} else {
+    s_prop14="";
+}
+var s_prop15=getPageType();
+var s_prop16="";
+var s_prop17="";
+var cnnPageSource = "CNN";
+if (typeof(cnnSource) != "undefined")
+	cnnPageSource=cnnSource;
+if (SBcollection(cnnPageSource))
+	s_prop17=document.title;	//smallbusiness site
+var s_prop18="";
+var s_prop19=contentCategory(s_prop2);
+var s_prop20="";
+var s_prop21="";
+var s_prop22="";
+if (typeof(cnnBlogCat) != "undefined")
+	{s_prop22=cnnBlogCat;} else {s_prop22="";}
+var s_prop23="";
+if (typeof(cnnBlogSec) != "undefined")
+	{s_prop23=cnnBlogSec;} else {s_prop23="";}
+/* E-commerce Variables */
+var s_campaign="";
+var s_state="";
+var s_zip="";
+var s_events="";
+var s_products="";
+var s_purchaseID="";
+var s_eVar1=getPageType();
+var s_eVar2="";
+var s_eVar3="";
+var s_eVar4="";
+var s_eVar5="";
+var s_eVar9="";
+if(location.pathname.match(/^\/\d{4}\/\d{2}\/\d{2}\//)){
+	s_eVar9=location.pathname;
+}
+var s_eVar12=getPKWurl();
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+//--></script>
+<script language="JavaScript" src="http://i.cdn.turner.com/money/javascript/omniture/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.7. -->
+
+	<script language="JavaScript" src="http://i.cdn.turner.com/money/.element/ssi/partners/FormatDynamics/printtracker/js/cp.js" type="text/javascript"></script>
+	<!-- tacoda -->
+
+	<SCRIPT LANGUAGE="JavaScript">var tcdacmd="dt";</SCRIPT>
+	<SCRIPT SRC="http://an.tacoda.net/an/16399/slf.js" LANGUAGE="JavaScript"></SCRIPT>
+	<script language="JavaScript">
+		var R = new String(document.referrer);
+		var serveAd=1;
+		if(R.length > 0)
+		{
+			if (R.indexOf("yahoo.com") >= 0)
+				serveAd=0;
+		}
+		if(serveAd)
+		{
+			// dynamic logic
+			document.write('<scr'+'ipt src="http://content.dl-rms.com/rms/mother/8101/nodetag.js"></scr'+'ipt>');
+			<!--ADSPACE: ros/popunders/bot.1x1-->
+			cnnad_createAd("229469","http://ads.cnn.com/html.ng/site=cnn_money&cnn_money_position=1x1_bot&params.styles=fs","1","1");
+			try { selectSurvey(); }	catch(e){}
+		}
+	</script>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-5dyPa639IrgIw";quantserve();</script>
+
+	<noscript>
+	<a href="http://www.quantcast.com/p-5dyPa639IrgIw" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-5dyPa639IrgIw.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
+	<!-- BlueKai -->
+	<img height=1 width=1 src="http://tags.bluekai.com/site/423">
+	<!-- nielsen -->
+	<img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-ade&cg=12011&cc=1" alt="">
+	<!-- START REVENUE SCIENCE PIXELLING CODE -->
+	<script src="http://js.revsci.net/gateway/gw.js?csid=H07710"></script>
+
+	<script type="text/javascript" language="JavaScript" charset="utf-8">
+	<!--
+	DM_cat('CNNMoney > ' + s_prop1 + ' > ' + s_prop2);
+	DM_tag();
+	//-->
+	</script>
+	<!-- END REVENUE SCIENCE PIXELLING CODE -->
+	<!-- Lotame -->
+	<script src="http://cnnmoney.tags.crwdcntrl.net/cc.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	LOTCC.domain="cnnmoney.tags.crwdcntrl.net";
+	LOTCC.client="96";
+	LOTCC.bcp();
+	</script>
+</div>
+<!-- controls the symbolcomplete in the cnnmoney banner. moved 8/6/09 -->
+<script src="http://symbolcomplete.money.cnn.com/SymbolComplete/service.aspx?license=4B662A3429B5F7ADCB690CD70B61A5AF3D32DD7616B49134A891EFE554BEBCFFEE2ACAF2C98505797E1EECC02826C73C8A3CA5819F8746F2C0A52DD546CC280B7ED9807FF32896FB3D49D364256E672690B9B890574930D66F2A4DA7D638B4AAD61E3E3D"></script>
+<script>
+if (window.SymbolComplete != null)
+	{
+		// Parameters: textBox id, display area id, # results in div (1-20), delay, callback, common part of domain name for async calls (money.cnn.com).
+		//window.SymbolComplete.Setup('symb', 'myContainer', 10, .050, formatResult, 'cnn.com');
+ 		window.SymbolComplete.SetupDynamicScript('symb', 'myContainer', 10, .050, formatResult, false);
+ 		window.SymbolComplete.DisableAutoHighlight();
+		//added 8-13-08. yt
+ 		window.SymbolComplete.myAutoComp.itemSelectEvent.subscribe(symbolSelected);
+ 	}
+ function symbolSelected()
+ {
+ 	document.quoteForm.submit();
+ }
+
+
+</script>
+<!-- end content body -->
+</div>
+<!--include virtual="/stcejorp/bc_test/livequote/stealth/livequotes_stealth_data.html"-->
+<img src="/cookie.crumb" width="1" height="1">
+<img src="http://i.cdn.turner.com/money/.element/img/1.0/misc/1.gif" alt="" id="TargetImageDE" name="TargetImageDE" width="1" height="1" onLoad="getDEAdHeadCookie(this)">
+
+<div id="csiIframe" style="visibility:hidden;height:0px;width:0px;"></div>
+	<script type="text/javascript" src="http://i.cdn.turner.com/money/.element/ssi/javascript/1.1/navigation.js">
+	/***********************************************
+	* AnyLink CSS Menu script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+	* This notice MUST stay intact for legal use
+	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+	***********************************************/
+	</script>
+	<script src="http://i.cdn.turner.com/money/.element/script/2.0/scripts/prototype.js" type="text/javascript"></script>
+	<script src="http://i.cdn.turner.com/money/.element/ssi/javascript/2.0/foot.js" language="javascript"></script>
+
+	<div id="cookie_footer" style="position: absolute; top: -10; left: -10;"></div>
+	<script type="text/javascript" src="http://i.cdn.turner.com/money/.element/ssi/javascript/2.0/cookie.footer.js"></script>
+</body>
+</html>
+

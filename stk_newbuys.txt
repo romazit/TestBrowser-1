@@ -1,0 +1,16 @@
+isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|Divident%/year|
+***1|XRM|696609|Xerium Technologies, Inc.|0|0|0|
+***1|CLFD|1104|Clearfield, Inc.|0|0|0|
+***1|GERN|659976|Geron Corporation|0|0|0|
+***1|MITL|2298913|Mitel Networks Corporation|0|0|0|
+1|RGEN|480629|Repligen Corporation|0|0|0|
+***1|GAIA|663783|Gaiam, Inc.|0|0|0|
+1|SMRT|655663|Stein Mart, Inc.|0|0|0|
+1|TREE|729449|Tree.com Inc|0|0|0|
+1|TPX|688730|Tempur Sealy International Inc|0|0|0|
+1|OME|662105|Omega Protein Corporation|0|0|0|
+1|MITK|15933333|Mitek Systems, Inc.|0|0|0|
+1|AWAY|2588763|HomeAway, Inc.|0|0|0|
+1|FCN|659160|FTI Consulting, Inc.|0|0|0|
+1|BR|715242|Broadridge Financial Solutions, Inc.|0|0|0|
+1|PMTC|427141|PTC Inc|0|0|0|

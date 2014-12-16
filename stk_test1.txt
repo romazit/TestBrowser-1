@@ -1,0 +1,64 @@
+0|isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|
+0|GS|663137|Goldman Sachs Group, Inc.|0|0|
+0|GE|14135|General Electric Company|0|0|
+1|AA|803|Alcoa Inc.|0|0|
+0|AAP|668575|Advance Auto Parts, Inc.|0|0|
+0|AAPL|22144|Apple Inc.|0|0|
+0|AMD|327|Advanced Micro Devices, Inc.|0|0|
+0|ATNI|8811152|Atlantic Tele-Network, Inc.|0|0|
+0|C|662713|Citigroup Inc.|0|0|
+0|DV|655840|DeVry Inc.|0|0|
+0|MFB|698497|Maidenform Brands, Inc.|0|0|
+0|MSFT|358464|Microsoft Corporation|0|0|
+0|HANS|658642|Hansen Natural Corporation|0|0|
+0|XRX|39232|Xerox Corporation|0|0|
+1|INX|626307|S&P 500 INDEX|0|0|
+0|PAS|38776|PepsiAmericas, Inc.|0|0
+0|PCX|719967|Patriot Coal Corporation|0|0|
+0|PFE|664730|Pfizer Inc.|0|0|
+0|PLCE|660813|Children's Place Retail Stores, Inc.|0|0|
+0|PRX|26697|Par Pharmaceutical Companies, Inc.|0|0|
+0|PTRY|663252|The Pantry, Inc.|0|0|
+0|PWRD|717303|Perfect World Co., Ltd. (ADR)|0|0|
+0|X|38983|United States Steel Corporation|0|0|
+0|HPQ|17154|Hewlett-Packard Company|0|0|
+0|WFC|25913|Wells Fargo & Company|0|0|
+0|F|13606|Ford Motor Company|0|0|
+0|FAS|11217091|Direxion Daily Finan. Bull 3X Shs(ETF)|0|0|
+0|LEN|21344|Lennar Corporation|0|0|
+0|LHCG|697891|LHC Group, Inc.|0|0|
+0|CVS|22788|CVS Caremark Corporation|0|0|
+0|CAT|5736|Caterpillar Inc.|0|0|
+0|NCR|659586|NCR Corporation|0|0|
+0|WIN|697443|Windstream Corporation|0|0|
+0|EBAY|662654|eBay Inc.|0|0|
+0|MU|12441984|Micron Technology, Inc.|0|0|
+0|R|30515|Ryder System, Inc. -Transport|0|0|
+0|WMT|38230|Wal-Mart Stores, Inc.|0|0|
+0|BA|661224|The Boeing Company|0|0|
+0|BAC|662744|Bank of America Corporation|0|0|
+0|BIG|662508|Big Lots, Inc.|0|0|
+0|JNJ|666601|Johnson & Johnson|0|0|
+0|INTC|284784|Intel Corporation|0|0|
+0|NAK|696671|Northern Dynasty Minerals Ltd. (USA)|0|0|
+0|XL|663887|XL Capital Ltd.|0|0|
+0|YHOO|658890|Yahoo! Inc.|0|0|
+0|MET|664378|MetLife, Inc.|0|0|
+0|ORCL|419344|Oracle Corporation|0|0|
+0|UNG|710363|United States Natural Gas Fund, LP|0|0|
+0|USO|705740|United States Oil Fund LP (ETF)|0|0|
+0|CME|674051|CME Group Inc.|0|0|
+0|GLD|702696|SPDR Gold Trust (ETF)|0|0|
+0|GG|657176|Goldcorp Inc. (USA)|0|0|
+0|OSG|26375|Overseas Shipholding Group Inc.|0|0|
+0|ABB|667049|ABB Ltd (ADR)|0|0|
+0|ROST|488053|Ross Stores, Inc.|0|0|
+0|HBI|709312|Hanesbrands Inc.|0|0|
+0|RT|658868|Ruby Tuesday, Inc.|0|0|
+0|SBUX|655693|Starbucks Corporation|0|0|
+0|SLE|30793|Sara Lee Corp.|0|0|
+0|SSO|728662|ProShares Ultra S&P500 (ETF)|0|0|
+0|CMCSK|13460335|Comcast Corporation|0|0|
+0|DLTR|657812|Dollar Tree, Inc.|0|0|
+0|NFLX|672501|Netflix, Inc.|0|0|
+0|XLF|700196|Financial Select Sector SPDR (ETF)|0|0|

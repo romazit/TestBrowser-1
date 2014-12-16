@@ -1,0 +1,4 @@
+cvs -d :pserver:roman:********@bambi:2401/rmRepository checkout TestBrowser
+cd TestBrowser
+java -jar TestBrowser.jar
+cd ..
