@@ -1,0 +1,190 @@
+isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|Divident%/year|
+1|AA|803|Alcoa Inc.|0|0|0|
+0|AAMRQ|13640564|AMR Corporation|0|0|0|
+0|AAP|668575|Advance Auto Parts, Inc.|0|0|0|
+0|AAPL|22144|Apple Inc.|0|0|0|
+0|ABB|667049|ABB Ltd (ADR)|0|0|0|
+0|AGNC|722355|American Capital Agency Corp.|20.28|1|0|
+0|AMD|327|Advanced Micro Devices, Inc.|0|0|0|
+0|AMSC|656037|American Superconductor Corporation|0|0|0|
+0|AMZN|660463|Amazon.com, Inc.|0|0|0|
+0|ARO|672823|Aeropostale Inc|5.06|1|0|
+0|AU|662751|AngloGold Ashanti Limited (ADR)|0|0|0|
+0|ATNI|8811152|Atlantic Tele-Network, Inc.|0|0|0|
+0|BA|661224|The Boeing Company|0|0|0|
+1|BAC|662744|Bank of America Corporation|0|0|0|
+0|BBY|4408|Best Buy Co., Inc.|0|0|0|
+0|BBRY|663276|BlackBerry Ltd|7.3|1|0|
+0|BIG|662508|Big Lots, Inc.|0|0|0|
+0|BIOS|660784|BioScrip Inc|0|0|0|
+0|BMR|696216|Biomed Realty Trust Inc|18.35|1|0|
+0|BRCM|662079|Broadcom Corporation|26.38|1|0|
+0|ARO|672823|Aeropostale Inc|0|0|0|
+0|C|662713|Citigroup Inc.|0|0|0|
+0|CAT|5736|Caterpillar Inc.|0|0|0|
+0|CBL|656855|CBL &amp; Associates Properties, Inc.|0|0|0|
+0|CEL|713827|Cellcom Israel Ltd.|0|0|0
+0|CHL|660998|China Mobile Ltd. (ADR)|47.9|1|0
+0|CHRW|661019|C.H. Robinson Worldwide, Inc.|0|0|0
+0|CIG|664413|Companhia Energetica Minas Gerais (ADR)|0|0|0
+0|CLFD|1104|Clearfield, Inc.|0|0|0|
+0|CMCSK|13460335|Comcast Corporation|0|0|0|
+0|CME|674051|CME Group Inc.|0|0|0|
+0|CNIT|444360983163942|China Information Technology, Inc. - Ordinary Shares|0|0|0|
+1|CORN|8573171|Teucrium Corn Fund|31.53|1|0|
+0|CVS|22788|CVS Caremark Corporation|0|0|0|
+0|CSCO|99624|Cisco Systems, Inc.|21.17|1|0|
+0|CSG|1067235108134200|Chambers Street Properties|0|0|0|
+0|CSIQ|710899|Canadian Solar Inc.|28.75|1|0|
+0|CSUN|716108|China Sunergy Co Ltd|6.84|1|0|
+1|DBA|713176|PowerShares DB Agriculture Fund|27.82|1|0|
+0|DLTR|657812|Dollar Tree, Inc.|0|0|0|
+0|DO|658040|Diamond Offshore Drilling Inc|46.74|1|0|
+0|DQ|8047548|Daqo New Energy Corp|42.74|1|0|
+0|DV|655840|DeVry Inc.|0|0|0|
+1|EBAY|662654|eBay Inc.|48.58|1|0|
+0|ED|8600|Consolidated Edison, Inc.|53.75|1|0|
+0|ERX|1431344|Direxion Daily Energy Bull 3X Shs(ETF)|0|0|0|
+0|EXC|28724|Exelon Corporation|27.41|1|0|
+0|EXXI|715588|Energy XXI (Bermuda) Limited|0|0|0|
+0|F|13606|Ford Motor Company|0|0|0|
+0|FAS|11217091|Direxion Daily Finan. Bull 3X Shs(ETF)|0|0|0|
+0|FAZ|12101102|Direxion Daily Finan. Bear 3X Shs(ETF)|0|0|0|
+0|FE|26130|FirstEnergy Corp.|0|0|0|
+0|FNFG|662490|First Niagara Financial Group Inc.|8.71|1|0|
+0|FOE|12914|Ferro Corporation|0|0|0|
+0|FTR|100208|Frontier Communications Corp|0|0|0|
+0|GAIA|663783|Gaiam, Inc.|5.96|1|0|
+0|GASL|6445071|Direxion Shares Exchange Traded Fund Trust|0|0|0|
+1|GDX|709738|Market Vectors Gold Miners ETF|26.59|1|0|
+0|GE|14135|General Electric Company|0|0|0|
+0|GERN|659976|Geron Corporation|4.7487|1|0|
+1|GG|657176|Goldcorp Inc. (USA)|24.75|1|0|
+0|GLD|702696|SPDR Gold Trust (ETF)|0|0|0|
+1|GM|14676476|General Motors Company|32.6|1|0|
+0|GME|667047|GameStop Corp.|35.43|1|0|
+0|GPS|13943|The Gap Inc.|41.31|1|0|
+0|GS|663137|Goldman Sachs Group, Inc.|0|0|0|
+0|GST|704594|Gastar Exploration Limited (USA)|0|0|0|
+1|GTAT|12509028|GT Advanced Technologies Inc|0|0|0|
+0|GTE|717007|Gran Tierra Energy Inc.|0|0|0|
+0|HANS|658642|Hansen Natural Corporation|0|0|0|
+0|HBI|709312|Hanesbrands Inc.|0|0|0|
+0|HCN|16918|Health Care REIT, Inc.|53.4|1|0|
+0|HCP|16930|HCP, Inc.|0|0|0|
+0|HIIQ|732221689568213|Health Insurance Innovations Inc|11.5|1|0|
+0|HOGS|715186|ZHONGPIN INC.|0|0|0|
+0|HPQ|17154|Hewlett-Packard Company|36.53|0|0|
+0|HTA|330853547149504|Healthcare Trust Of America Inc|10.06|1|0|
+1|IBM|18241|International Business Machines Corp.|0|0|0|
+0|INTC|284784|Intel Corporation|23.2276|1|0|
+0|INVN|6310496|InvenSense Inc|19.36|1|0|
+0|INX|626307|S&P 500 INDEX|0|0|0|
+0|IQNT|713951|Inteliquent Inc|0|0|0|
+0|JAXB|682465|Jacksonville Bancorp Inc.|0|0|0|
+1|JCP|26944|J.C. Penney Company, Inc.|8.85|1|0|
+0|JKS|13665843|JinkoSolar Holding Co., Ltd.|27.967|1|0|
+0|JNJ|666601|Johnson & Johnson|0|0|0|
+1|KBH|20528|KB Home|16.47|1|0|
+0|KERX|665072|Keryx Biopharmaceuticals|0|0|0|
+0|KFN|699441|KKR Financial Holdings LLC|9.57|1|0|
+0|KIM|655926|Kimco Realty Corp|0|0|0|
+0|KKR|717333|KKR &amp; Co. L.P.|0|0|0|
+0|KMB|20769|Kimberly Clark Corp|0|0|0|
+0|KO|6550|The Coca-Cola Company|0|0|0|
+0|LCI|674389|Lannett Company, Inc.|0|0|0|
+0|LEN|21344|Lennar Corporation|0|0|0|
+0|LHCG|697891|LHC Group, Inc.|0|0|0|
+1|LULU|715923|Lululemon Athletica inc.|45.74|1|0|
+0|LXP|658651|Lexington Realty Trust|0|0|0|
+0|MBCI|12664876|MabCure Inc|0|0|0|
+0|MCD|22568|McDonald's Corporation|0|0|0|
+0|MET|664378|MetLife, Inc.|0|0|0|
+0|MFB|698497|Maidenform Brands, Inc.|0|0|0|
+0|MG|728961|Mistras Group Inc|0|0|0|
+0|MITL|2298913|Mitel Networks Corporation|0|0|0|
+0|MO|28739|Altria Group Inc|0|0|0|
+0|MON|665325|Monsanto Company|0|0|0|
+0|MS|660479|Morgan Stanley|0|0|0|
+0|MU|12441984|Micron Technology, Inc.|0|0|0|
+0|MSFT|358464|Microsoft Corporation|32.55|1|0|
+0|MRVL|664838|Marvell Technology Group Ltd.|0|0|0|
+0|MYGN|658315|Myriad Genetics, Inc.|0|0|0|
+0|NAK|696671|Northern Dynasty Minerals Ltd. (USA)|0|0|0|
+0|NAN|13832706|Nuveen New York Dividend Advntg Mncpl Fd|13.08|1|0|
+0|NCR|659586|NCR Corporation|0|0|0|
+0|NE|694969|Nextraction Energy Corp.|0|0|0|
+0|NFLX|672501|Netflix, Inc.|0|0|0|
+0|NGD|697037|New Gold Inc. (USA)|0|0|0|
+0|NIHD|665354|NII Holdings Inc|2.624|1|0|
+0|NLY|662081|Annaly Capital Management, Inc.|10.36|1|0|
+0|NMR|668913|Nomura Holdings, Inc. (ADR)|6.07|1|0|
+0|O|658117|Realty Income Corp|37.76|1|0|
+0|OESX|718766|Orion Energy Systems, Inc.|0|0|0|
+0|ONVO|343632203739706|Organovo Holdings Inc|0|0|0|
+0|OSG|26375|Overseas Shipholding Group Inc.|0|0|0|
+0|OSGIQ|26375|Overseas Shipholding Group Inc.|4.5|1|0|
+0|ORCL|419344|Oracle Corporation|0|0|0|
+0|OXBT|662569|Oxygen Biotherapeutics, Inc.|6.31|1|0|
+0|PALM|664304|Palm, Inc.|0|0|0|
+0|PAS|38776|PepsiAmericas, Inc.|0|0|0|
+0|PBR|664128|Petroleo Brasileiro Petrobras SA (ADR)|11.2|1|0|
+0|PCX|719967|Patriot Coal Corporation|0|0|0|
+0|PDM|715413|Piedmont Office Realty Trust, Inc.|0|0|0|
+0|PFE|664730|Pfizer Inc.|0|0|0|
+0|PLCE|660813|Children's Place Retail Stores, Inc.|0|0|0|
+0|PM|722661|Philip Morris International Inc.|0|0|0|
+0|PRX|26697|Par Pharmaceutical Companies, Inc.|0|0|0|
+0|PTRY|663252|The Pantry, Inc.|0|0|0|
+0|PWR|661813|Quanta Services Inc|27.15|1|0|
+0|PWRD|717303|Perfect World Co., Ltd. (ADR)|0|0|0|
+1|QQQ|700146|PowerShares QQQ Trust, Series 1 (ETF)|0|0|0|
+0|QTWW|675507|Quantum Fuel Systems Tech Worldwide Inc|7.1599|1|0|
+0|R|30515|Ryder System, Inc. -Transport|0|0|0|
+0|RDWR|663567|Radware Ltd.|14.23|1|0|
+0|RIG|663968|Transocean LTD|0|0|0|
+0|ROST|488053|Ross Stores, Inc.|0|0|0|
+0|RPAI|281245842133872|Retail Properties of America Inc|0|0|0|
+0|RS|657257|Reliance Steel & Aluminum |0|0|0|
+0|RT|658868|Ruby Tuesday, Inc.|0|0|0|
+0|SBUX|655693|Starbucks Corporation|0|0|0|
+0|SCO|4310767|ProShares UltraShort DJ-UBS Crude Oi ETF|31.82|1|0|
+0|SDS|714844|ProShares UltraShort S&P500 (ETF)|25.98|1|0|
+0|SGOC|719431|SGOCO Group Ltd|0|0|0|
+0|SHLD|18800|Sears Holdings Corp|36.19|1|0|
+0|SLE|30793|Sara Lee Corp.|0|0|0|
+0|SLW|702184|Silver Wheaton Corp. (USA)|0|0|0|
+0|SLV|709305|iShares Silver Trust (ETF)|18.73|1|0|
+0|SMFG|685043|Sumitomo Mitsui Financial Grp, Inc.(ADR)|8.02|1|0|
+0|SPY|700145|SPDR S&amp;P 500 ETF Trust|189.72|1|0|
+0|SMFG|685043|Sumitomo Mitsui Financial Grp, Inc.(ADR)|7.96|1|0|
+0|SODA|14899305|Sodastream International Ltd|42.71|1|0|
+0|SOXL|6265390|Direxion Daily Semiconductor Bull 3X Shs|0|0|0|
+0|SPWR|702189|SunPower Corporation|33.5|1|0|
+0|SSO|728662|ProShares Ultra S&P500 (ETF)|0|0|0|
+0|STJ|491872|St. Jude Medical, Inc.|0|0|0|
+0|SUNE|658274|Sunedison Inc|0|0|0|
+0|TG|34167|Tredegar Corporation|24.07|1|0|
+0|TGT|9524|Target Corporation|56.34|1|0|
+1|TSLA|12607212|Tesla Motors Inc|0|0|0|
+0|TZA|8941944|Direxion Daily Small Cp Bear 3X Shs(ETF)|0|0|0|
+1|USO|705740|United States Oil Fund LP (ETF)|35.37|1|0|
+0|UNG|710363|United States Natural Gas Fund, LP|0|0|0|
+0|UNXL|8581096|UniPixel Inc|0|0|0|
+0|USAK|655573|USA Truck, Inc.|0|0|0|
+0|VNDA|703826|Vanda Pharmaceuticals Inc.|13.958|1|0|
+0|VIPS|182420081784866|Vipshop Holdings Ltd|82.06|1|0|
+0|VMW|718288|VMware, Inc.|0|0|0|
+0|VZ|664887|Verizon Communications Inc.|0|0|0|
+0|WFC|25913|Wells Fargo & Company|0|0|0|
+0|WIN|697443|Windstream Corporation|0|0|0|
+0|WMT|38230|Wal-Mart Stores, Inc.|0|0|0|
+0|YHOO|658890|Yahoo! Inc.|0|0|0|
+1|X|38983|United States Steel Corporation|25.8|1|0|
+0|XCO|704925|EXCO Resources Inc|5.1|1|0|
+0|XL|663887|XL Capital Ltd.|0|0|0|
+0|XLF|700196|Financial Select Sector SPDR (ETF)|0|0|0|
+0|XOM|663876|Exxon Mobil Corporation|0|0|0|
+0|XRM|696609|Xerium Technologies, Inc.|0|0|0|
+0|XRX|39232|Xerox Corporation|0|0|0|
+0|ZHNE|665360|Zhone Technologies Inc|0|0|0|
