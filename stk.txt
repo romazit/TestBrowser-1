@@ -12,8 +12,8 @@ isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|Divident%/year|
 0|AU|662751|AngloGold Ashanti Limited (ADR)|0|0|0|
 0|ATNI|8811152|Atlantic Tele-Network, Inc.|0|0|0|
 0|BA|661224|The Boeing Company|0|0|0|
-1|BAC|662744|Bank of America Corporation|0|0|0|
-1|BBY|4408|Best Buy Co., Inc.|0|0|0|
+0|BAC|662744|Bank of America Corporation|0|0|0|
+0|BBY|4408|Best Buy Co., Inc.|0|0|0|
 1|BBRY|663276|BlackBerry Ltd|7.3|1|0|
 0|BIG|662508|Big Lots, Inc.|0|0|0|
 0|BIOS|660784|BioScrip Inc|0|0|0|
