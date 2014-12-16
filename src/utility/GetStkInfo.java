@@ -30,7 +30,7 @@ public static String stkGoogleDes;
             if (MIME.equals("text/html") && content instanceof String) {
                 String str = (String) content;
 
-                /*Get stkGoogleNum*/
+                /*Get stkGoogleNum */
                 p = Pattern.compile("http://www.google.com/finance\\?cid=");
                 m = p.matcher(str);
                 b = false;
