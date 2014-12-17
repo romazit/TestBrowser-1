@@ -12,7 +12,7 @@ isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|Divident%/year|
 0|AU|662751|AngloGold Ashanti Limited (ADR)|0|0|0|
 0|ATNI|8811152|Atlantic Tele-Network, Inc.|0|0|0|
 0|BA|661224|The Boeing Company|0|0|0|
-0|BAC|662744|Bank of America Corporation|0|0|0|
+1|BAC|662744|Bank of America Corporation|0|0|0|
 0|BBY|4408|Best Buy Co., Inc.|0|0|0|
 0|BBRY|663276|BlackBerry Ltd|7.3|1|0|
 0|BIG|662508|Big Lots, Inc.|0|0|0|
@@ -154,7 +154,7 @@ isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|Divident%/year|
 0|SHLD|18800|Sears Holdings Corp|36.19|1|0|
 0|SLE|30793|Sara Lee Corp.|0|0|0|
 0|SLW|702184|Silver Wheaton Corp. (USA)|0|0|0|
-0|SLV|709305|iShares Silver Trust (ETF)|18.73|1|0|
+1|SLV|709305|iShares Silver Trust (ETF)|18.73|1|0|
 0|SMFG|685043|Sumitomo Mitsui Financial Grp, Inc.(ADR)|8.02|1|0|
 0|SPY|700145|SPDR S&amp;P 500 ETF Trust|189.72|1|0|
 0|SMFG|685043|Sumitomo Mitsui Financial Grp, Inc.(ADR)|7.96|1|0|
