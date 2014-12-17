@@ -5,4 +5,4 @@ rem c:\Misc\TestBrowser\jre7\bin\java -jar TestBrowser.jar
 rem dir
 rem cd dist
 java -jar TestBrowser-1.jar
-cd ..
+rem cd ..
