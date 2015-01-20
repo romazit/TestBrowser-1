@@ -31,7 +31,7 @@ isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|Divident%/year|
 0|CMCSK|13460335|Comcast Corporation|0|0|0|
 0|CME|674051|CME Group Inc.|0|0|0|
 0|CNIT|444360983163942|China Information Technology, Inc. - Ordinary Shares|0|0|0|
-1|CORN|8573171|Teucrium Corn Fund|26.07|1|0|
+1|CORN|8573171|Teucrium Corn Fund|31.53|1|0|
 0|CVS|22788|CVS Caremark Corporation|0|0|0|
 0|CSCO|99624|Cisco Systems, Inc.|21.17|1|0|
 0|CSG|1067235108134200|Chambers Street Properties|0|0|0|
