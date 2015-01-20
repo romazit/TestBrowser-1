@@ -168,7 +168,7 @@ isActive|symbol|idGOOGLE|companyName|priceBuy|isBuy|Divident%/year|
 0|TGT|9524|Target Corporation|56.34|1|0|
 1|TSLA|12607212|Tesla Motors Inc|0|0|0|
 0|TZA|8941944|Direxion Daily Small Cp Bear 3X Shs(ETF)|0|0|0|
-1|USO|705740|United States Oil Fund LP (ETF)|35.37|1|0|
+1|USO|705740|United States Oil Fund LP (ETF)|17.57|1|0|
 0|UNG|710363|United States Natural Gas Fund, LP|0|0|0|
 0|UNXL|8581096|UniPixel Inc|0|0|0|
 0|USAK|655573|USA Truck, Inc.|0|0|0|
